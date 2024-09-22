@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500941497778",
+    "project_id": "thrive-together-e773c",
+    "storage_bucket": "thrive-together-e773c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500941497778:android:be002b61a63bbb3c93f0ab",
+        "android_client_info": {
+          "package_name": "com.uni_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8oaaqDyM_nK539io_5IokZvJuu19ktPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
